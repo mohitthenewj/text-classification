@@ -3,6 +3,7 @@ To evaluate search relevancy, companyX has had their searches from a handful of 
 
 # Back-propagation
 Write plain python code for backpropagation
+
  ![image](https://user-images.githubusercontent.com/60458677/124747593-b5258200-df3f-11eb-8a34-59f6ec7077cb.png)
 
 
