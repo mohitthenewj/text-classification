@@ -2,7 +2,7 @@
 To evaluate search relevancy, companyX has had their searches from a handful of eCommerce websites. A total of 261 search terms were generated, and companyX put together a list of products and their corresponding search terms. Each rater was asked to give a product search term a score of 1, 2, 3, 4, with 4 indicating the item completely satisfies the search query, and 1 indicating the item doesn't match the search term.
 
 # Back-propagation
-Write plain python code for backpropagation of below function(RMSE or cross-entropy can be used as Loss function)
+Write plain python code for backpropagation of below function(dervivative and update).
 
  ![image](https://user-images.githubusercontent.com/60458677/124747593-b5258200-df3f-11eb-8a34-59f6ec7077cb.png)
 
